@@ -4,6 +4,8 @@ VAULT is a small React web app where I keep my collection of big AAA story games
 (like Red Dead Redemption 2, The Last of Us Part II and GTA VI).
 I can add games and see the details of each one. Everything is saved in the browser with localStorage.
 
+**Live demo:** https://tahasanurkarim-pixel.github.io/clsWork-GameVault/
+
 ## Features
 
 - **Library page** – shows all games as cards, plus 3 stats: Total Games, Playing, Completed
@@ -28,8 +30,8 @@ I can add games and see the details of each one. Everything is saved in the brow
 1. Clone the repository and open the folder:
 
    ```bash
-   git clone https://github.com/<your-username>/vault-react.git
-   cd vault-react
+   git clone https://github.com/tahasanurkarim-pixel/clsWork-GameVault.git
+   cd clsWork-GameVault
    ```
 
 2. Install the packages:
