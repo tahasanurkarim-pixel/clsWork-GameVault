@@ -4,7 +4,7 @@ VAULT is a small React web app where I keep my collection of big AAA story games
 (like Red Dead Redemption 2, The Last of Us Part II and GTA VI).
 I can add games and see the details of each one. Everything is saved in the browser with localStorage.
 
-**Live demo:** https://tahasanurkarim-pixel.github.io/clsWork-GameVault/
+**Live demo:** https://clswork-gamevault-git-main-tahsan1.vercel.app/
 
 ## Features
 
